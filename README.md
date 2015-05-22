@@ -9,6 +9,6 @@
 * Erik the Viking.
 * No one Expects the Spanish Inquisition.
 * Spam!
-* I'm a lumberjack and I's OK.
-*And Now For Something Completely Different.
+* I'm a lumberjack and I'm OK.
+* And Now For Something Completely Different.
 
